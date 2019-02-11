@@ -1,1 +1,2 @@
-# ideas
+# Ideas
+Testing the hut
