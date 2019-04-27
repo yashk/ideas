@@ -14,3 +14,6 @@
 1. https://news.ycombinator.com/item?id=18483460
 1.1 proslint - https://github.com/amperser/proselint
 1.2 greping json - https://github.com/tomnomnom/gron
+
+## Hackers tools course
+1. https://hacker-tools.github.io/data-wrangling/
