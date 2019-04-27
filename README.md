@@ -12,6 +12,5 @@
 
 ## Cli tools
 1. https://news.ycombinator.com/item?id=18483460
-
-## linting your pros
-1. https://github.com/amperser/proselint
+1.1 proslint - https://github.com/amperser/proselint
+1.2 greping json - https://github.com/tomnomnom/gron
