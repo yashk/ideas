@@ -12,3 +12,6 @@
 
 ## Cli tools
 1. https://news.ycombinator.com/item?id=18483460
+
+## linting your pros
+1. https://github.com/amperser/proselint
