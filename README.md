@@ -10,3 +10,5 @@
 ## Scala
 1. https://twitter.github.io/scala_school/
 
+## Cli tools
+1. https://news.ycombinator.com/item?id=18483460
