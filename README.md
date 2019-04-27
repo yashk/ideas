@@ -1,7 +1,7 @@
 # Ideas
 ## Learn SQL
 1. https://mode.com/sql-tutorial/
-2. created account using tibco email.
+2. created account using work email.
 
 ## Projects to learn new langs
 1. Push-Sum algo - peer to peer aggerigation.
