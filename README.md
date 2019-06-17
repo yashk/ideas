@@ -17,3 +17,7 @@
 
 ## Hackers tools course
 1. https://hacker-tools.github.io/data-wrangling/
+
+## Hands on Distributed Systems - UW Course
+1. https://blog.acolyer.org/2019/04/17/teaching-rigorous-distributed-systems-with-efficient-model-checking/
+
